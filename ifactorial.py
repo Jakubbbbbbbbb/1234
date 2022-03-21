@@ -1,5 +1,6 @@
+
 def ifactorial():
-    n=float(input("Podaj liczbę z której policzymy silnię:"))
+    n=float(input("Podaj liczbę całkowitą z której policzymy silnię:"))
     x=1
     nsilnia=1
     while x<(n+1):
